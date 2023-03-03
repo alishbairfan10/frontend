@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0%;
+}
+
+.container img{
+    height: 20pc;
+    width: 300px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 50pc;
+}
+
+
+.container{
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+
+
+
+h3{
+    text-decoration: underline cadetblue;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+/* button{
+    background-color: transparent;
+    padding: 10px;
+    border-color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    border-radius: 10px;
+    width: 10pc;
+    text-decoration-color: beige;
+    
+    
+}
+button:hover{
+    background-color: transparent;
+
+} */
+
+
+h5{
+    text-decoration: underline cadetblue;
+}
+
+
+h1{
+    font-weight: bolder;
+    text-decoration: overline;
+    animation-duration: 0.8s;
+    
+
+}
+
+p{
+    font-weight: bold;
+    
+    animation-duration: 0.8s;
+      
+}
+#btn1{
+    padding: 10px;
+    background-color: transparent;
+    border-color: transparent;
+    border-radius: 15px;
+    
+}
+#btn2{
+    padding: 10px;
+    background-color: transparent;
+    border-color: transparent;
+    border-radius: 15px;
+}
+#btn1:hover{
+   
+    background-color: transparent;
+    border-color: black;
+   
+}
+#btn2:hover{
+   
+    background-color: transparent;
+    border-color: black;
+   
+}
+.container a{
+background-color: transparent;
+border-color: black;
+color: black;
+}
+
+
+
+#navbar a:hover{
+    text-decoration: 2px underline  pink ;
+    
+    
+    
+    
+}
+footer{
+    background-color: #343a40;
+}
+
+.container a{
+    background-color: transparent;
+    
+  }
+ 
